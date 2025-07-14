@@ -1,1 +1,1 @@
-# mintty-darkplugtheme
+# mintty-darkplustheme
